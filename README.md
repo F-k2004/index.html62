@@ -13,7 +13,7 @@ canvas{display:block}
  backdrop-filter:blur(10px);
  color:#d9f3ff;font-size:13px;min-width:460px;
 }
-.good{color:#9ff0ff}
+.ood{color:#9ff0ff}
 .mid{color:#ffd29f}
 .bad{color:#ff9f9f}
 .warn{color:#ffb366}
